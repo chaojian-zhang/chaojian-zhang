@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
+
 - 🔭 I’m currently working on graduating from school (yes, that's work for me)
 - 🌱 I’m currently learning Haskell
 - ⛵ I'm also exploring Minetest
