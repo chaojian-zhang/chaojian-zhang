@@ -8,12 +8,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on graduating from school (yes, that's work for me)
-- 🌱 I’m currently learning Haskell
-- ⛵ I'm also exploring Minetest
-- 🧡 My favorite programming languages: C# and Lua
-- 👯 I’m looking to collaborate on some *cool game project*
+- 🔭 I will start working as a Generalist Programmer at BBI this Septemper!
+- 🌱 I’m currently learning CG drawing
+- ⛵ I'm working on a game named [Deep Dive](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/wiki)!
+- 🧡 My favorite programming language (among others): C#
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
+- 👯 And to carry on my semi-finished workr on [Somewhere](https://github.com/chaojian-zhang/Somewhere) (maybe Somewhere 2)
 - 💬 Ask me about anything!
 - 📫 How to reach me: charles@totalimagine.com
 - ⚡ Fun fact: I am not religious but I am deeply spiritual
