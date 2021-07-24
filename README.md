@@ -11,7 +11,7 @@
 - 🔭 I will start working as a Generalist Programmer at BBI this Septemper!
 - 🌱 I’m currently learning CG drawing
 - ⛵ I'm working on a game named [Deep Dive](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/wiki)!
-- 🧡 My favorite programming language (among others): C#
+- 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
 - 👯 And to carry on my semi-finished workr on [Somewhere](https://github.com/chaojian-zhang/Somewhere) (maybe Somewhere 2)
 - 💬 Ask me about anything!
