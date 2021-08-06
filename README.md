@@ -8,7 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I will start working as a Generalist Programmer at BBI this Septemper!
+- 🔭 I will start working as a Generalist Programmer at BBI this Septemper
+- 🎮 I am a fan of Dwarf Fortress
 - 🌱 I’m currently learning CG drawing
 - ⛵ I'm working on a game named [Deep Dive](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/wiki)!
 - 🧡 My favorite programming languages (among others) are: C# and Lua
