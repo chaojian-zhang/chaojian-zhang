@@ -15,7 +15,7 @@
 - 🚀 I am also working on some cool concept software called "Parcel"
 - 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
-- 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/chaojian-zhang/Somewhere) (maybe Somewhere 2)
+- 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) (maybe [Somewhere 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
 - 💬 Ask me about anything!
 - 📫 How to reach me: charles@totalimagine.com
 - ⚡ Fun fact: I am not religious but I am deeply spiritual
