@@ -11,7 +11,7 @@
 - 🔭 I am working as a Generalist Programmer at BBI as of 2022
 - 🎮 I am a fan of Dwarf Fortress
 - 🌱 I’m currently learning CG drawing
-- ⛵ I'm working on a game named [Deep Dive](https://github.com/Charles-Zhang-Deep-Dive/Deep-Dive-Dev-Central/wiki) ([Video](https://youtu.be/Rd8E-iSiLZ0))!
+- ⛵ I'm working on a game named [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
 - 🚀 I am also working on some cool concept software called "Parcel"
 - 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
