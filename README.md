@@ -12,7 +12,7 @@
 - 🎮 I am a fan of Dwarf Fortress
 - 🌱 I’m currently learning CG drawing
 - ⛵ I'm working on a game named [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
-- 🚀 I am also working on some cool concept software called "Parcel"
+- 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)"
 - 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
 - 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) (maybe [Somewhere 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
