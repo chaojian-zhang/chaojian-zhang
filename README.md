@@ -8,11 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I am working as a Generalist Programmer at BBI as of 2022
-- 🎮 I am a fan of Dwarf Fortress
+- 🔭 I used to work as a Generalist Programmer at BBI during 2021-2022 and worked on Minecraft Legends
+- 🎮 I am a fan of Dwarf Fortress, and I created my own simulation game named [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
 - 🌱 I’m currently learning CG drawing
-- ⛵ I'm working on a game named [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
 - 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)"
+- 🌎 The latest mega-project I am working on (besides the long-term mysterious [Project Nine](https://nine.totalimagine.com/ArtOfAI)) is called "The Matrix"
 - 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
 - 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) (maybe [Somewhere 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
