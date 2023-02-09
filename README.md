@@ -10,8 +10,8 @@
 
 - 🔭 I used to work as a Generalist Programmer at BBI during 2021-2022 and worked on Minecraft Legends
 - 🎮 I am a fan of Dwarf Fortress, and I created my own simulation game named [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
-- 🌱 I’m currently learning CG drawing
-- 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)"
+- 🌱 I’m currently learning CG concept design from CGPB
+- 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)" (now available as [Expresso](https://charles-zhang.itch.io/expresso))
 - 🌎 The latest mega-project I am working on (besides the long-term mysterious [Project Nine](https://nine.totalimagine.com/ArtOfAI)) is called "The Matrix"
 - 🧡 My favorite programming languages (among others) are: C# and Lua
 - 🤔 I’m looking for help with developing a new scripting language (~~[Formless](https://formless.totalimagine.com/)~~ Nope, let's do [Pure](https://github.com/Pure-The-Language) instead😆)
