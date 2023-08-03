@@ -14,7 +14,7 @@
 - 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)" (now available as [Expresso](https://charles-zhang.itch.io/expresso)) (Nowadays I recommend just using [Pure](https://github.com/Pure-The-Language) instead)
 - 🌎 The latest mega-project I am working on (besides the long-term mysterious [Project Nine](https://nine.totalimagine.com/ArtOfAI)) is called "The Matrix"
 - 🧡 My favorite programming languages (among others) are: C#, C++, Prolog, Elixir, and Lua.
-- 🤔 I’m looking for help with developing a new scripting language (~~[Formless](https://formless.totalimagine.com/)~~ Nope, let's do [Pure](https://github.com/Pure-The-Language) instead😆)
+- 🤔 I’m looking for help with developing a new scripting language (~~[Formless](https://github.com/chaojian-zhang/FormlessProgramming)~~ Nope, let's do [Pure](https://github.com/Pure-The-Language) instead😆)
 - 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) (maybe [Somewhere 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
 - 💬 Ask me about anything!
 - 📫 How to reach me: charles@totalimagine.com
