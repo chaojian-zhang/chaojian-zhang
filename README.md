@@ -18,7 +18,8 @@
 - 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/Charles-Zhang-Somewhere/Somewhere) (maybe [Somewhere 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
 - 💬 Ask me about anything!
 - 📫 How to reach me: charles@totalimagine.com
-- ⚡ Fun fact: I am not religious but I am deeply spiritual; I am also a big believer of the syntactic elegance of a programming language
+- ⚡ Fun fact: I am not religious but I am deeply spiritual
+- 💎 I am also a big believer of the syntactic elegance of a programming language
 - 🧘‍♀️ Another fun fact: Experimenting (and highly experienced) with lucid dreams💤
 
 Company Website: https://methodox.io/
