@@ -10,7 +10,7 @@
 
 - 🔭 I used to work as a Generalist Programmer at BBI during 2021-2022 and worked on Minecraft Legends
 - 🎮 I am a fan of Dwarf Fortress, and I am creating my own simulation game [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
-- 🌱 I’m currently learning CG concept design from CGPB -> learning to use RenderMan to build custom CGI pipeline
+- 🌱 I’m currently learning CG concept design from CGPB -> learning to use RenderMan to build custom CGI pipeline -> developing my own rendering pipeline
 - 🚀 I am also working on some cool concept software called "[Parcel](https://github.com/Charles-Zhang-Parcel)" (now available as [Expresso](https://charles-zhang.itch.io/expresso)) (Nowadays I recommend just using [Pure](https://github.com/Pure-The-Language) instead)
 - 🌎 The latest mega-project I am working on (besides the long-term mysterious [Project Nine](https://nine.totalimagine.com/ArtOfAI)) is called "The Matrix"
 - 🧡 My favorite programming languages (among others) are: C#, C++, Prolog, Elixir, Lua and now (2024) Java!
