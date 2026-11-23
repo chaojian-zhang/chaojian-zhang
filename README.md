@@ -25,3 +25,9 @@
 - 🧘‍♀️ Another fun fact: Experimenting (and highly experienced) with lucid dreams💤
 
 Company Website: https://methodox.io/
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+  <img alt="Contribution snake" src="./profile/snake.svg" />
+</picture>
