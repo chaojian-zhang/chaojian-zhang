@@ -31,6 +31,15 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}
 
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PAT }}
+          outputs: |
+            profile/snake.svg?palette=github-light
+            profile/snake-dark.svg?palette=github-dark
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
