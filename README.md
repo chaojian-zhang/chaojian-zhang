@@ -4,9 +4,9 @@
 **chaojian-zhang/chaojian-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="left" alt="Chaojian Zhang's Github Stats (Anurag's github stats)" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chaojian-zhang&count_private=true&theme=gruvbox&show_icons=true" />
+<img align="left" alt="Chaojian Zhang's GitHub Stats" src="./profile/stats.svg" />
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chaojian-zhang&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I used to work as a Generalist Programmer at BBI during 2021-2022 and worked on Minecraft Legends
 - 🎮 I am a fan of Dwarf Fortress, and I am creating my own simulation game [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
