@@ -8,6 +8,8 @@
 
 [![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
+<br clear="left" />
+
 - 🔭 I used to work as a Generalist Programmer at BBI during 2021-2022 and worked on Minecraft Legends
 - 🎮 I am a fan of Dwarf Fortress, and I am creating my own simulation game [Deep Dive](https://youtu.be/Rd8E-iSiLZ0)!
 - 🌱 I’m currently learning CG concept design from CGPB -> learning to use RenderMan to build custom CGI pipeline -> developing my own rendering pipeline
